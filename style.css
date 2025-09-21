@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: url("images/banner.jpg") no-repeat center center/cover;
+}
+
+.card img {
+  height: 300px;
+  object-fit: cover;
+}
